@@ -1,5 +1,5 @@
 - ( ^_^)/ hi! i’m @wdtotl, or fitz <3
-- i’m interested in coding for please. notion widgets, small personal QOL things, some school projects, etc!
+- i’m interested in coding for pleasure. notion widgets, small personal QOL things, some school projects, etc!
 - i’m currently learning java and trying to get better at html
 
 <!---
